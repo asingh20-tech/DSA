@@ -28,6 +28,9 @@ public int LongestConsecutive(int[] nums) {
     return Math.max(max, count);
 }
 
+        void main() {
+        }
+
 // Solution 2
 
 
